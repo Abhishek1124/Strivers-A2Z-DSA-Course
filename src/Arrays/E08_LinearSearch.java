@@ -1,6 +1,6 @@
 package Arrays;
 
-public class E8_LinearSearch {
+public class E08_LinearSearch {
 
 	public static void main(String[] args) {
 		int[] num = {2, 3, 4, 5, 3};

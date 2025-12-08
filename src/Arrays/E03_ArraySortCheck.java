@@ -1,6 +1,6 @@
 package Arrays;
 
-public class E3_ArraySortCheck {
+public class E03_ArraySortCheck {
 
 	public static void main(String[] args) {
 		int[] arr = {1, 2, 3, 4, 5};

@@ -3,7 +3,7 @@ package Arrays;
 import java.util.ArrayList;
 import java.util.List;
 
-public class M1_UnionOfTwoSortedArrays {
+public class M01_UnionOfTwoSortedArrays {
 
 	public static void main(String[] args) {
 		int[] arr1 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};

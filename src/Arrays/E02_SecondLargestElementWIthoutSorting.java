@@ -1,6 +1,6 @@
 package Arrays;
 
-public class E2_SecondLargestElementWIthoutSorting {
+public class E02_SecondLargestElementWIthoutSorting {
 
 	public static void main(String[] args) {
 		int[] num = {8, 8, 7, 6, 5};

@@ -1,6 +1,6 @@
 package Arrays;
 
-public class E4_UniqueElementCountInSortedArray {
+public class E04_UniqueElementCountInSortedArray {
 
 	public static void main(String[] args) {
 		int[] arr = {0, 0, 3, 3, 5, 6};

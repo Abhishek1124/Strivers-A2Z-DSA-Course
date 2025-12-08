@@ -3,7 +3,7 @@ package Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class M4_LongestSubarrayWithSumK {
+public class M04_LongestSubarrayWithSumK {
 
 	public static void main(String[] args) {
 		int[] num = {-3, 2, 1};

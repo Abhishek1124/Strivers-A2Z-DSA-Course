@@ -1,6 +1,6 @@
 package Arrays;
 
-public class E1_LargestElementInArray {
+public class E01_LargestElementInArray {
 
 	public static void main(String[] args) {
 		int[] num = {3, 3, 6, 1};

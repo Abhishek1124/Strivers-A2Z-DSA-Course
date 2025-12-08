@@ -1,6 +1,6 @@
 package Arrays;
 
-public class E9_FindMissingNumber {
+public class E09_FindMissingNumber {
 
 	public static void main(String[] args) {
 		int[] num = {1, 3, 6, 4, 5};

@@ -1,6 +1,6 @@
 package Arrays;
 
-public class M3_LongestSubarrayWithPositiveSumK {
+public class M03_LongestSubarrayWithPositiveSumK {
 
 	public static void main(String[] args) {
 		int[] num = {0, 2, 1};

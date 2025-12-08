@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Arrays;
 
-public class E5_LeftRotateArrayByOne {
+public class E05_LeftRotateArrayByOne {
 
 	public static void main(String[] args) {
 		int[] arr = {1, 2, 3, 4, 5};

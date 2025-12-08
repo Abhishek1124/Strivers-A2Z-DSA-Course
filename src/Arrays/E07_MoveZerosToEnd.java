@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Arrays;
 
-public class E7_MoveZerosToEnd {
+public class E07_MoveZerosToEnd {
 
 	public static void main(String[] args) {
 		int[] arr = {1, 0, 3, 0, 5, 6};
